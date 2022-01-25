@@ -26,9 +26,9 @@ export default function Home() {
                         <h3><span>BTech Student</span></h3>
                         <ul className='sci'>
                             <li><a href="http://Wa.me/917356254044"><i class="fa-brands fa-whatsapp"></i></a></li>
-                            <li><a href='https://www.facebook.com/usampk.velleri/'><i class="fa-brands fa-facebook-f"></i></a></li>
-                            <li><a href='https://www.instagram.com/usampkvelleri/'><i class="fa-brands fa-instagram"></i></a></li>
-                            <li><a href='https://twitter.com/USAMABINJAFARP1'><i class="fa-brands fa-twitter"></i></a></li>
+                            <li><a href='https://www.facebook.com/usampk.velleri/'><i className="fa-brands fa-facebook-f"></i></a></li>
+                            <li><a href='https://www.instagram.com/usampkvelleri/'><i className="fa-brands fa-instagram"></i></a></li>
+                            <li><a href='https://twitter.com/USAMABINJAFARP1'><i className="fa-brands fa-twitter"></i></a></li>
                         </ul>
                     </div>
                 </div>
